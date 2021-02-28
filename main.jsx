@@ -3,3 +3,4 @@ var w = new Window('dialog'); //①
 this.add('button',undefined,"ボタン");
 this.layout.layout();
 w.show(); 
+test
